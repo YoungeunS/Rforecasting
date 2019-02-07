@@ -9,7 +9,7 @@ Description: R shiny forecasting tool for time series data
 
 ``` r
 library(devtools)
-install_github("YoungeunS/rbarima")
+install_github("YoungeunS/Rforecasting")
 ```
 
 ## Imports
