@@ -16,7 +16,7 @@ install_github("YoungeunS/Rforecasting")
 
 Depends:\
 	R (>= 3.4.4),\
-	shiny (>= 0.13)\
+	shiny (>= 0.13)
 
 Imports:\
 	cowplot (>= 0.9.2),\
